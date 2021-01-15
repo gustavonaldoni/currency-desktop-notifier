@@ -1,1 +1,1 @@
-# currency-desktop-notificator
+# currency-desktop-notifier
