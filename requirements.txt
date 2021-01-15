@@ -1,2 +1,2 @@
 forex-python
-notify2
+win10toast
